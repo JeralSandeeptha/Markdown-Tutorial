@@ -1,3 +1,3 @@
 ### Resource
 ---
-[title](https://www.markdownguide.org/cheat-sheet)
+[Go to the cheet sheet](https://www.markdownguide.org/cheat-sheet)
